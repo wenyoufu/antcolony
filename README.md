@@ -26,3 +26,5 @@ AntColony（Github）是findit磁力搜索引擎的核心。用来在DHT网络�
   
 详细的使用方法请查看[部署文档](https://github.com/keenwon/antcolony/blob/master/doc/%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3.md)  
 其他内容查看 [http://keenwon.com/1436.html](http://keenwon.com/1436.html "http://keenwon.com/1436.html")  
+
+导读文章记录：https://www.jianshu.com/p/3aebc68c6652?_t_t_t=0.670096187105901
